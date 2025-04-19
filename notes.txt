@@ -1,0 +1,11 @@
+# Azure AD Identity Lab - Notes
+
+Date: April 2025
+
+- Created Azure AD users:
+  - john.smith
+  - emma.jones
+- Created a group: CloudAdmins
+- Added both users to the group
+- Enabled MFA for john.smith
+- Assigned the role 'User Administrator' to emma.jones
